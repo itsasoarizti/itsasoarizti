@@ -1,8 +1,11 @@
 # Hi there, I'm Itsaso 👋
 
 🎓 BSc in Mathematics — University of the Basque Country (EHU/UPV)
+
 📚 MSc in Data Science - University of Alicante (UA)
+
 🤖 Interested in Machine Learning, Optimization, NLP and AI Systems
+
 📍 Spain
 
 ---
