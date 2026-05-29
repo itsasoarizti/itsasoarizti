@@ -6,7 +6,7 @@
 
 🤖 Interested in Machine Learning, Optimization, NLP and AI Systems
 
-📍 Spain
+📍 Donostia-San Sebastián, Gipuzkoa, Spain
 
 ---
 
@@ -157,14 +157,6 @@ Work related to:
 * Graph Neural Networks
 * MLOps
 * AI Systems at Scale
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsasoarizti\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsasoarizti\&layout=compact)
 
 ---
 
