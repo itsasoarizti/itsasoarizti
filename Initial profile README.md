@@ -41,6 +41,27 @@ Development and comparison of different optimization approaches for complex sche
 
 Focused on combinatorial optimization, operational research and metaheuristic methods.
 
+🔗 [Repository](https://github.com/itsasoarizti/Optimization-Models-for-Unrelated-Parallel-Machine-Problem)
+
+---
+
+## 🎓 Master's Thesis
+
+### Traffic-Aware Route Optimization for Urban Logistics
+
+End-to-end system combining machine learning traffic prediction with vehicle routing optimization, applied to real data from the city of Chicago:
+
+* Integration of 7 open data sources (historical traffic, accidents, road closures, sports events, concerts, school holidays, weather)
+* Empirical validation of the spatial and temporal effect of contextual events on traffic
+* Comparison of three predictive approaches: LightGBM with segment-specific features, a generalizable backup model, and a Graph Convolutional Network (GCN) capturing spatial dependencies between road segments
+* Real road network graph (OpenStreetMap / OSMnx) with dynamic, traffic-dependent travel times
+* Vehicle Routing Problem solved and compared using Google OR-Tools (Guided Local Search) and a custom-built Genetic Algorithm
+* Validation with both historical and real-time data
+
+Technologies: LightGBM, PyTorch Geometric, OSMnx, NetworkX, Google OR-Tools, DuckDB, pandas
+
+🔗 [Repository](https://github.com/itsasoarizti/Optimizacion-de-Rutas-de-Reparto-en-Logistica-Urbana)
+
 ---
 
 ## Areas of Interest
@@ -169,18 +190,3 @@ Work related to:
 
 ⭐ Feel free to explore my repositories and projects.
 
-
-<!--
-**itsasoarizti/itsasoarizti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
